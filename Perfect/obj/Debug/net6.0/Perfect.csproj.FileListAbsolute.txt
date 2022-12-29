@@ -1,0 +1,15 @@
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\bin\Debug\net6.0\Perfect.exe
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\bin\Debug\net6.0\Perfect.deps.json
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\bin\Debug\net6.0\Perfect.runtimeconfig.json
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\bin\Debug\net6.0\Perfect.dll
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\bin\Debug\net6.0\Perfect.pdb
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.csproj.AssemblyReference.cache
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.AssemblyInfoInputs.cache
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.AssemblyInfo.cs
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.csproj.CoreCompileInputs.cache
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.dll
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\refint\Perfect.dll
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.pdb
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\Perfect.genruntimeconfig.cache
+C:\Users\Master-Tech\Source\Repos\Perfect\Perfect\obj\Debug\net6.0\ref\Perfect.dll
